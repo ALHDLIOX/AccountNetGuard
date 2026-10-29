@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "tun_interface": "auto",
+  "mihomo_path": "auto",
+  "probe_addresses": ["1.1.1.1", "8.8.8.8"],
+  "tailscale_refresh_hours": 6
+}
